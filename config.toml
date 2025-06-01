@@ -16,7 +16,7 @@ codds = 1.85
 bet_position = []
 
 [discord]
-enabled = true
+enabled = 0
 bot_token = ""
 bot_client_id = ""
 guild_id = ""
